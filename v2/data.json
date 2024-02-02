@@ -1,0 +1,23 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "知行小屋",
+      "url": "https://blog.natuie.top",
+      "avatar": "https://blog.natuie.top/favicon.ico",
+      "description": "追求简洁，顺其自然！"
+    },
+    {
+      "title": "Venter",
+      "url": "https://venter.top",
+      "avatar": "https://venter.top/imgs/venterLogo.png",
+      "description": "Venter 官方网站"
+    },
+    {
+      "title": "P6oy的杂货铺",
+      "url": "https://p6oy.top",
+      "avatar": "https://file.p6oy.top/p6.2.webp",
+      "description": "叼毛一个   啥都不会"
+    }
+  ]
+}
